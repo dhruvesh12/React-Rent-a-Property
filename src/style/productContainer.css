@@ -12,3 +12,41 @@
     height: 500px;
 }
 
+.productLabel{
+    display: inline-block;
+    margin-right: 140px;
+    white-space: nowrap;
+    
+}
+
+.productLabel > h3{
+    float: right;
+    color:#7262F7;
+}
+
+.cardslabel{
+    position:relative;
+    display: block;
+    margin-top: -40px;
+    margin-left: 80%;
+    
+}
+
+.addressLabel{
+    font-size: smaller;
+    float: left;
+    color: #998e86;
+}
+
+.horizontalLine{
+    position: relative;
+    margin-top: 50px;
+    border-top: 1px solid red;
+    
+}
+
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: oblique;
+}
