@@ -75,7 +75,7 @@ function Filterlayout() {
 
     // For Submit
     const onsubmit = ()=>{
-        console.log(minprice.length)
+        
         if(minprice.length===0){
             
             
